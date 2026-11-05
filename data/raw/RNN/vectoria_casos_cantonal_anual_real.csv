@@ -1,0 +1,423 @@
+anio,provincia,canton,casos_dengue
+2013,Alajuela,Alfaro Ruiz,4
+2013,Alajuela,Atenas,3722
+2013,Alajuela,Grecia,846
+2013,Alajuela,Guatuso,30
+2013,Alajuela,Los Chiles,10
+2013,Alajuela,Naranjo,68
+2013,Alajuela,Orotina,3304
+2013,Alajuela,Palmares,152
+2013,Alajuela,Poas,392
+2013,Alajuela,San Carlos,666
+2013,Alajuela,San Mateo,368
+2013,Alajuela,San Ramon,136
+2013,Alajuela,Upala,2220
+2013,Alajuela,Valverde Vega,92
+2013,Cartago,Alvarado,0
+2013,Cartago,El Guarco,18
+2013,Cartago,Jimenez,0
+2013,Cartago,La Union,30
+2013,Cartago,Oreamuno,92
+2013,Cartago,Paraiso,58
+2013,Cartago,Turrialba,1178
+2013,Guanacaste,Abangares,1068
+2013,Guanacaste,Bagaces,1192
+2013,Guanacaste,Canas,2712
+2013,Guanacaste,Carrillo,2770
+2013,Guanacaste,Hojancha,666
+2013,Guanacaste,La Cruz,830
+2013,Guanacaste,Liberia,3630
+2013,Guanacaste,Nandayure,1080
+2013,Guanacaste,Nicoya,7272
+2013,Guanacaste,Santa Cruz,5818
+2013,Guanacaste,Tilaran,516
+2013,Heredia,Barva,128
+2013,Heredia,Belen,278
+2013,Heredia,Flores,390
+2013,Heredia,San Isidro,208
+2013,Heredia,San Pablo,214
+2013,Heredia,San Rafael,196
+2013,Heredia,Santa Barbara,230
+2013,Heredia,Santo Domingo,204
+2013,Heredia,Sarapiqui,2798
+2013,Limón,Guacimo,2662
+2013,Limón,Matina,828
+2013,Limón,Pococi,4504
+2013,Limón,Siquirres,4304
+2013,Limón,Talamanca,582
+2013,Puntarenas,Buenos Aires,2068
+2013,Puntarenas,Corredores,1526
+2013,Puntarenas,Coto Brus,82
+2013,Puntarenas,Esparza,1662
+2013,Puntarenas,Garabito,1860
+2013,Puntarenas,Golfito,2472
+2013,Puntarenas,Montes De Oro,1700
+2013,Puntarenas,Osa,1888
+2013,Puntarenas,Parrita,2240
+2013,San José,Acosta,24
+2013,San José,Alajuelita,262
+2013,San José,Aserri,138
+2013,San José,Coronado,116
+2013,San José,Curridabat,176
+2013,San José,Desamparados,898
+2013,San José,Escazu,72
+2013,San José,Goicoechea,262
+2013,San José,Montes De Oca,90
+2013,San José,Mora,790
+2013,San José,Moravia,118
+2013,San José,Perez Zeledon,3784
+2013,San José,Puriscal,242
+2013,San José,Santa Ana,372
+2013,San José,Tibas,364
+2013,San José,Turrubares,270
+2014,Alajuela,Alfaro Ruiz,0
+2014,Alajuela,Atenas,172
+2014,Alajuela,Grecia,122
+2014,Alajuela,Guatuso,4
+2014,Alajuela,Los Chiles,4
+2014,Alajuela,Naranjo,12
+2014,Alajuela,Orotina,162
+2014,Alajuela,Palmares,14
+2014,Alajuela,Poas,48
+2014,Alajuela,San Carlos,218
+2014,Alajuela,San Mateo,16
+2014,Alajuela,San Ramon,10
+2014,Alajuela,Upala,334
+2014,Alajuela,Valverde Vega,0
+2014,Cartago,Alvarado,0
+2014,Cartago,El Guarco,2
+2014,Cartago,Jimenez,0
+2014,Cartago,La Union,12
+2014,Cartago,Oreamuno,2
+2014,Cartago,Paraiso,6
+2014,Cartago,Turrialba,150
+2014,Guanacaste,Abangares,128
+2014,Guanacaste,Bagaces,250
+2014,Guanacaste,Canas,214
+2014,Guanacaste,Carrillo,660
+2014,Guanacaste,Hojancha,228
+2014,Guanacaste,La Cruz,60
+2014,Guanacaste,Liberia,138
+2014,Guanacaste,Nandayure,48
+2014,Guanacaste,Nicoya,750
+2014,Guanacaste,Santa Cruz,1584
+2014,Guanacaste,Tilaran,48
+2014,Heredia,Barva,28
+2014,Heredia,Belen,90
+2014,Heredia,Flores,186
+2014,Heredia,San Isidro,48
+2014,Heredia,San Pablo,80
+2014,Heredia,San Rafael,26
+2014,Heredia,Santa Barbara,36
+2014,Heredia,Santo Domingo,70
+2014,Heredia,Sarapiqui,974
+2014,Limón,Guacimo,578
+2014,Limón,Matina,900
+2014,Limón,Pococi,1522
+2014,Limón,Siquirres,546
+2014,Limón,Talamanca,402
+2014,Puntarenas,Buenos Aires,1552
+2014,Puntarenas,Corredores,1432
+2014,Puntarenas,Coto Brus,40
+2014,Puntarenas,Esparza,198
+2014,Puntarenas,Garabito,102
+2014,Puntarenas,Golfito,352
+2014,Puntarenas,Montes De Oro,310
+2014,Puntarenas,Osa,234
+2014,Puntarenas,Parrita,434
+2014,San José,Acosta,4
+2014,San José,Alajuelita,82
+2014,San José,Aserri,78
+2014,San José,Coronado,10
+2014,San José,Curridabat,36
+2014,San José,Desamparados,318
+2014,San José,Escazu,14
+2014,San José,Goicoechea,106
+2014,San José,Montes De Oca,18
+2014,San José,Mora,14
+2014,San José,Moravia,28
+2014,San José,Perez Zeledon,280
+2014,San José,Puriscal,106
+2014,San José,Santa Ana,64
+2014,San José,Tibas,48
+2014,San José,Turrubares,0
+2015,Alajuela,Alfaro Ruiz,2
+2015,Alajuela,Atenas,588
+2015,Alajuela,Grecia,222
+2015,Alajuela,Guatuso,2
+2015,Alajuela,Los Chiles,4
+2015,Alajuela,Naranjo,132
+2015,Alajuela,Orotina,198
+2015,Alajuela,Palmares,2
+2015,Alajuela,Poas,66
+2015,Alajuela,San Carlos,106
+2015,Alajuela,San Mateo,20
+2015,Alajuela,San Ramon,4
+2015,Alajuela,Upala,14
+2015,Alajuela,Valverde Vega,0
+2015,Cartago,Alvarado,0
+2015,Cartago,El Guarco,0
+2015,Cartago,Jimenez,0
+2015,Cartago,La Union,22
+2015,Cartago,Oreamuno,10
+2015,Cartago,Paraiso,12
+2015,Cartago,Turrialba,80
+2015,Guanacaste,Abangares,3654
+2015,Guanacaste,Bagaces,150
+2015,Guanacaste,Canas,990
+2015,Guanacaste,Carrillo,1386
+2015,Guanacaste,Hojancha,234
+2015,Guanacaste,La Cruz,132
+2015,Guanacaste,Liberia,1242
+2015,Guanacaste,Nandayure,212
+2015,Guanacaste,Nicoya,2710
+2015,Guanacaste,Santa Cruz,3168
+2015,Guanacaste,Tilaran,24
+2015,Heredia,Barva,10
+2015,Heredia,Belen,74
+2015,Heredia,Flores,68
+2015,Heredia,San Isidro,14
+2015,Heredia,San Pablo,40
+2015,Heredia,San Rafael,30
+2015,Heredia,Santa Barbara,44
+2015,Heredia,Santo Domingo,50
+2015,Heredia,Sarapiqui,286
+2015,Limón,Guacimo,78
+2015,Limón,Matina,82
+2015,Limón,Pococi,398
+2015,Limón,Siquirres,52
+2015,Limón,Talamanca,60
+2015,Puntarenas,Buenos Aires,156
+2015,Puntarenas,Corredores,2396
+2015,Puntarenas,Coto Brus,26
+2015,Puntarenas,Esparza,944
+2015,Puntarenas,Garabito,282
+2015,Puntarenas,Golfito,2072
+2015,Puntarenas,Montes De Oro,1046
+2015,Puntarenas,Osa,446
+2015,Puntarenas,Parrita,392
+2015,San José,Acosta,4
+2015,San José,Alajuelita,74
+2015,San José,Aserri,14
+2015,San José,Coronado,34
+2015,San José,Curridabat,52
+2015,San José,Desamparados,218
+2015,San José,Escazu,28
+2015,San José,Goicoechea,62
+2015,San José,Montes De Oca,32
+2015,San José,Mora,46
+2015,San José,Moravia,52
+2015,San José,Perez Zeledon,408
+2015,San José,Puriscal,108
+2015,San José,Santa Ana,72
+2015,San José,Tibas,70
+2015,San José,Turrubares,146
+2016,Alajuela,Alfaro Ruiz,2
+2016,Alajuela,Atenas,3164
+2016,Alajuela,Grecia,686
+2016,Alajuela,Guatuso,72
+2016,Alajuela,Los Chiles,2
+2016,Alajuela,Naranjo,56
+2016,Alajuela,Orotina,476
+2016,Alajuela,Palmares,30
+2016,Alajuela,Poas,146
+2016,Alajuela,San Carlos,414
+2016,Alajuela,San Mateo,128
+2016,Alajuela,San Ramon,16
+2016,Alajuela,Upala,64
+2016,Alajuela,Valverde Vega,26
+2016,Cartago,El Guarco,6
+2016,Cartago,La Union,14
+2016,Cartago,Oreamuno,2
+2016,Cartago,Paraiso,8
+2016,Cartago,Turrialba,96
+2016,Guanacaste,Abangares,444
+2016,Guanacaste,Bagaces,366
+2016,Guanacaste,Canas,776
+2016,Guanacaste,Carrillo,866
+2016,Guanacaste,Hojancha,142
+2016,Guanacaste,La Cruz,186
+2016,Guanacaste,Liberia,488
+2016,Guanacaste,Nandayure,282
+2016,Guanacaste,Nicoya,776
+2016,Guanacaste,Santa Cruz,1222
+2016,Guanacaste,Tilaran,40
+2016,Heredia,Barva,72
+2016,Heredia,Belen,150
+2016,Heredia,Flores,114
+2016,Heredia,San Isidro,28
+2016,Heredia,San Pablo,80
+2016,Heredia,San Rafael,66
+2016,Heredia,Santa Barbara,118
+2016,Heredia,Santo Domingo,114
+2016,Heredia,Sarapiqui,1246
+2016,Limón,Guacimo,294
+2016,Limón,Matina,220
+2016,Limón,Pococi,1444
+2016,Limón,Siquirres,668
+2016,Limón,Talamanca,54
+2016,Puntarenas,Buenos Aires,1690
+2016,Puntarenas,Corredores,746
+2016,Puntarenas,Coto Brus,42
+2016,Puntarenas,Esparza,774
+2016,Puntarenas,Garabito,710
+2016,Puntarenas,Golfito,888
+2016,Puntarenas,Montes De Oro,338
+2016,Puntarenas,Osa,1130
+2016,Puntarenas,Parrita,1162
+2016,San José,Acosta,380
+2016,San José,Alajuelita,194
+2016,San José,Aserri,68
+2016,San José,Coronado,84
+2016,San José,Curridabat,74
+2016,San José,Desamparados,696
+2016,San José,Escazu,34
+2016,San José,Goicoechea,74
+2016,San José,Montes De Oca,114
+2016,San José,Mora,554
+2016,San José,Moravia,52
+2016,San José,Perez Zeledon,4096
+2016,San José,Puriscal,688
+2016,San José,Santa Ana,266
+2016,San José,Tibas,118
+2016,San José,Turrubares,64
+2017,Alajuela,Alfaro Ruiz,0
+2017,Alajuela,Atenas,238
+2017,Alajuela,Grecia,102
+2017,Alajuela,Guatuso,10
+2017,Alajuela,Los Chiles,2
+2017,Alajuela,Naranjo,32
+2017,Alajuela,Orotina,110
+2017,Alajuela,Palmares,4
+2017,Alajuela,Poas,48
+2017,Alajuela,San Carlos,58
+2017,Alajuela,San Mateo,26
+2017,Alajuela,San Ramon,4
+2017,Alajuela,Upala,36
+2017,Alajuela,Valverde Vega,2
+2017,Cartago,Alvarado,0
+2017,Cartago,El Guarco,2
+2017,Cartago,Jimenez,0
+2017,Cartago,La Union,4
+2017,Cartago,Oreamuno,6
+2017,Cartago,Paraiso,6
+2017,Cartago,Turrialba,140
+2017,Guanacaste,Abangares,68
+2017,Guanacaste,Bagaces,22
+2017,Guanacaste,Canas,102
+2017,Guanacaste,Carrillo,148
+2017,Guanacaste,Hojancha,54
+2017,Guanacaste,La Cruz,32
+2017,Guanacaste,Liberia,56
+2017,Guanacaste,Nandayure,14
+2017,Guanacaste,Nicoya,100
+2017,Guanacaste,Santa Cruz,188
+2017,Guanacaste,Tilaran,10
+2017,Heredia,Barva,32
+2017,Heredia,Belen,56
+2017,Heredia,Flores,84
+2017,Heredia,San Isidro,10
+2017,Heredia,San Pablo,38
+2017,Heredia,San Rafael,72
+2017,Heredia,Santa Barbara,46
+2017,Heredia,Santo Domingo,46
+2017,Heredia,Sarapiqui,386
+2017,Limón,Guacimo,784
+2017,Limón,Matina,1366
+2017,Limón,Pococi,1200
+2017,Limón,Siquirres,662
+2017,Limón,Talamanca,90
+2017,Puntarenas,Buenos Aires,46
+2017,Puntarenas,Corredores,66
+2017,Puntarenas,Coto Brus,14
+2017,Puntarenas,Esparza,166
+2017,Puntarenas,Garabito,192
+2017,Puntarenas,Golfito,128
+2017,Puntarenas,Montes De Oro,228
+2017,Puntarenas,Osa,18
+2017,Puntarenas,Parrita,114
+2017,San José,Acosta,16
+2017,San José,Alajuelita,12
+2017,San José,Aserri,38
+2017,San José,Coronado,18
+2017,San José,Curridabat,10
+2017,San José,Desamparados,166
+2017,San José,Escazu,2
+2017,San José,Goicoechea,6
+2017,San José,Montes De Oca,18
+2017,San José,Mora,26
+2017,San José,Moravia,16
+2017,San José,Perez Zeledon,340
+2017,San José,Puriscal,102
+2017,San José,Santa Ana,54
+2017,San José,Tibas,34
+2017,San José,Turrubares,14
+2018,Alajuela,Atenas,136
+2018,Alajuela,Grecia,30
+2018,Alajuela,Guatuso,4
+2018,Alajuela,Los Chiles,0
+2018,Alajuela,Naranjo,0
+2018,Alajuela,Orotina,64
+2018,Alajuela,Palmares,0
+2018,Alajuela,Poas,16
+2018,Alajuela,San Carlos,22
+2018,Alajuela,San Mateo,18
+2018,Alajuela,San Ramon,0
+2018,Alajuela,Upala,28
+2018,Alajuela,Valverde Vega,0
+2018,Cartago,El Guarco,4
+2018,Cartago,La Union,18
+2018,Cartago,Oreamuno,2
+2018,Cartago,Paraiso,20
+2018,Cartago,Turrialba,88
+2018,Guanacaste,Abangares,32
+2018,Guanacaste,Bagaces,24
+2018,Guanacaste,Canas,118
+2018,Guanacaste,Carrillo,110
+2018,Guanacaste,Hojancha,18
+2018,Guanacaste,La Cruz,28
+2018,Guanacaste,Liberia,82
+2018,Guanacaste,Nandayure,22
+2018,Guanacaste,Nicoya,78
+2018,Guanacaste,Santa Cruz,86
+2018,Guanacaste,Tilaran,10
+2018,Heredia,Barva,22
+2018,Heredia,Belen,22
+2018,Heredia,Flores,28
+2018,Heredia,San Isidro,18
+2018,Heredia,San Pablo,16
+2018,Heredia,San Rafael,24
+2018,Heredia,Santa Barbara,18
+2018,Heredia,Santo Domingo,26
+2018,Heredia,Sarapiqui,1386
+2018,Limón,Guacimo,242
+2018,Limón,Matina,94
+2018,Limón,Pococi,500
+2018,Limón,Siquirres,218
+2018,Limón,Talamanca,188
+2018,Puntarenas,Buenos Aires,6
+2018,Puntarenas,Corredores,22
+2018,Puntarenas,Coto Brus,14
+2018,Puntarenas,Esparza,86
+2018,Puntarenas,Garabito,58
+2018,Puntarenas,Golfito,52
+2018,Puntarenas,Montes De Oro,42
+2018,Puntarenas,Osa,8
+2018,Puntarenas,Parrita,50
+2018,San José,Acosta,2
+2018,San José,Alajuelita,28
+2018,San José,Aserri,10
+2018,San José,Coronado,8
+2018,San José,Curridabat,8
+2018,San José,Desamparados,38
+2018,San José,Escazu,4
+2018,San José,Goicoechea,2
+2018,San José,Montes De Oca,18
+2018,San José,Mora,8
+2018,San José,Moravia,8
+2018,San José,Perez Zeledon,106
+2018,San José,Puriscal,2
+2018,San José,San Jose,78
+2018,San José,Santa Ana,0
+2018,San José,Tibas,12
+2018,San José,Turrubares,0

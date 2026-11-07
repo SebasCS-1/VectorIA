@@ -1,0 +1,33 @@
+{
+  "features": [
+    "ratio_casos_umbral",
+    "lluvia_14d_clip",
+    "temp_max",
+    "aegypti_detectado"
+  ],
+  "clases": [
+    "monitoreo_normal",
+    "eliminacion_criaderos",
+    "fumigacion_focalizada",
+    "alerta_sanitaria"
+  ],
+  "scaler_mean": [
+    1.0777935201706401,
+    103.3078853046595,
+    27.823297491039426,
+    0.4014336917562724
+  ],
+  "scaler_scale": [
+    1.120080962693563,
+    86.07484412340557,
+    1.7351505840969288,
+    0.49018841569258087
+  ],
+  "clip_ratio": 4.0,
+  "clip_lluvia_mm": 400.0,
+  "umbrales_reglas": {
+    "factor_alerta": 2.0,
+    "lluvia_14d_mm": 80.0,
+    "temp_max_c": 27.0
+  }
+}

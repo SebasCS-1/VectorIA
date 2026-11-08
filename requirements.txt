@@ -1,0 +1,33 @@
+# =====================================================
+# VectorIA
+# Dependencias principales del proyecto
+# =====================================================
+
+# Machine Learning
+tensorflow>=2.19.0
+
+# Datos
+numpy>=2.0.0
+pandas>=2.2.0
+
+# Visualización
+plotly>=5.24.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Modelado y métricas
+scikit-learn>=1.6.0
+
+# Imágenes
+Pillow>=11.0.0
+
+# Dashboard
+streamlit>=1.40.0
+
+# API
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-multipart>=0.0.12
+
+# Utilidades
+requests>=2.32.0

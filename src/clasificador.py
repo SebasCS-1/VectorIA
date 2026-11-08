@@ -30,7 +30,7 @@ class MosquitoClassifier:
 
         img_array = img_array.astype("float32")
 
-        img_array = img_array / 255.0
+        # img_array = img_array / 255.0
 
         img_array = np.expand_dims(
             img_array,
@@ -64,8 +64,12 @@ class MosquitoClassifier:
 
         return {
             "class": predicted_class,
-            "confidence": round(
-                confidence,
-                4
-            )
+            "confidence": round(confidence, 4),
+            "probabilities": {
+                nombre: round(float(valor), 4)
+                for nombre, valor in zip(
+                    self.class_names,
+                    predictions[0]
+                )
+            }
         }
